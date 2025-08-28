@@ -21,10 +21,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fernando-robles&show_icons=true&theme=radical)  
+ 
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-robles&layout=compact&theme=radical)  
 
 ---
 
